@@ -86,7 +86,7 @@ body {
 
 .reset button {
   border: none;
-  background: #DC5754;
+  background: #81b4b4;
   font-size: 25px;
   font-family: VT323;
   font-weight: bold;
@@ -123,7 +123,7 @@ body {
 
 .break-time button {
   border: none;
-  background: #DC5754;
+  background: #81b4b4;
   box-shadow: 1px 1px 1px #888888;
 }
 
